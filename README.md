@@ -38,14 +38,14 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.webp?cid=ecf05e475mixrejirzcy114kkfwro016qrv6we7nbr5gh4q9&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="giphy" />
 </p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=react,angular,electron,next,javascript,typescript,d3,redux,styledcomponents" /><br>
-    <img src="https://skillicons.dev/icons?i=jenkins,bootstrap,mui,mysql,html,css,sass,tailwind,vscode,figma,xd,ps,git" />
+
+
+
+
+
+
 </div>
-  <br/><br/><br/>
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
